@@ -1,3 +1,4 @@
+//this is a test
 class HelloManager:
     def __init__(self, date, money, category, note):
         self.date = date
